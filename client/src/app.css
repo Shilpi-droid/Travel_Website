@@ -1,0 +1,32 @@
+.card{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+label{
+    width: max-content;
+    color: tomato;
+    font-size: 13px;
+    border-bottom: .5px solid tomato;
+    margin: 3px 0;
+}
+
+.desc{
+    font-size: 14px;
+    /* width: 20px;
+    height: 20px; */
+}
+.place{
+    height:25px;
+}
+
+.username{
+    font-size: 14px;
+}
+
+.date{
+    fontsize:12px;
+}
